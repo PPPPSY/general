@@ -7,6 +7,8 @@
  */
 
 
-const urls = [
+const urls = [https://www.surveycake.com/s/APvbe,
+	      https://www.surveycake.com/s/QPyl8,
+	      https://www.surveycake.com/s/yZXn3
 	
 ];
